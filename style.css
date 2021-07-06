@@ -65,3 +65,86 @@ a {
   background-size: cover;
   padding-top: 100px;
 }
+
+.heading-rec h1 {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.heading-rec p {
+  text-align: center;
+  padding: 0 350px;
+}
+
+.card img {
+  width: 300px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.card p {
+  width: 80%;
+}
+
+.card {
+  box-shadow: 1px 1px 10px gray;
+  border-radius: 20px;
+  margin: 10px 30px;
+  padding: 20px;
+}
+
+.recipies {
+  padding: 0 180px;
+}
+
+.team {
+  display: flex;
+  padding: 0 200px;
+  text-align: center;
+}
+
+#team-sec h1 {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 100px;
+}
+
+.team-mem {
+  margin: 30px 40px;
+}
+
+.team-mem h2 {
+  color: orange;
+}
+
+.team-mem h3 {
+  font-weight: 300;
+}
+
+.team img {
+  height: 250px;
+  width: 300px;
+  border-radius: 20px;
+}
+
+.team h1 {
+  text-align: center;
+}
+
+form {
+  margin: 20px auto;
+}
+
+.contact h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  padding: 100px 0;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
